@@ -4,5 +4,9 @@
       "nombre": "Jhon",
       "apellido": "Wick",
       "telefono": "3042757600"
+  }],
+  "goals": [{
+      "startDate": "2021-07-02T05:00:00.000Z", 
+      "endDate": "2021-07-02T05:00:00.000Z"
   }]
 }
