@@ -18,6 +18,13 @@
   "dashboard": [{
       "fecha": "2021-06-29",
       "inversion_rounded": 5,
-      "impresiones": 505
+      "impresiones": 505,
+      "cpm": 344,
+      "clics": 1035,
+      "ctr": 322,
+      "cpc": 123,
+      "views": 264,
+      "leads": 172,
+      "%cr": 11
   }]
 }
