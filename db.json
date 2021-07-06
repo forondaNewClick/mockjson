@@ -17,6 +17,6 @@
   }],
   "dashboard": [{
       "fecha": "2021-06-29",
-      "inversion_rounded": "5",
+      "inversion_rounded": 5,
   }]
 }
