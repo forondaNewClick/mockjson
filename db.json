@@ -87,6 +87,24 @@
     "ctr": 230,
     "cpc": 120
   }],
+  "youtube": [{
+    "fecha": "2021-06-29",
+    "inversion": 767000,
+    "impresiones": 100,
+    "cpm": 57,
+    "clics": 800,
+    "ctr": 230,
+    "cpc": 56
+  },
+  {
+    "fecha": "2021-06-29",
+    "inversion": 450000,
+    "impresiones": 32000,
+    "cpm": 56,
+    "clics": 100,
+    "ctr": 23,
+    "cpc": 12
+  }],
   "dashboard": [{
       "fecha": "2021-06-29",
       "inversion_rounded": 5,
