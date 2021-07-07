@@ -70,22 +70,22 @@
       "endDate": "2021-07-02T05:00:00.000Z"
   }],
   "facebook": [{
-    "fecha": '2021-06-29',
+    "fecha": "2021-06-29",
     "inversion": 30000,
     "impresiones": 30,
     "cpm": 33,
     "clics": 300,
     "ctr": 30,
-    "cpc": 6,
+    "cpc": 6
   },
   {
-    "fecha": '2021-06-29',
+    "fecha": "2021-06-29",
     "inversion": 100000,
     "impresiones": 455,
     "cpm": 443,
     "clics": 430,
     "ctr": 230,
-    "cpc": 120,
+    "cpc": 120
   }],
   "dashboard": [{
       "fecha": "2021-06-29",
