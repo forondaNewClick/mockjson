@@ -57,9 +57,11 @@
   }],
   "dashboard": [{
       "fecha": "2021-06-29",
-      "inversion_rounded": 20000
+      "inversion_rounded": 20000,
+      "ProfitC": 34445
   },{
       "fecha": "2021-07-02",
-      "inversion_rounded": 5000000
+      "inversion_rounded": 5000000,
+      "ProfitC": 78945
   }]
 }
