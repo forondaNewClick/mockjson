@@ -107,7 +107,7 @@
   }],
   "dashboard": [{
       "fecha": "2021-06-29",
-      "inversion_rounded": 5,
+      "inversion_rounded": 20000,
       "impresiones": 505,
       "cpm": 344,
       "clics": 1035,
@@ -177,8 +177,8 @@
       "cac-cdw": 6550
   },{
       "fecha": "2021-06-29",
-      "inversion_rounded": 5,
-      "impresiones": 50,
+      "inversion_rounded": 6000,
+      "impresiones": 1200,
       "cpm": 34,
       "clics": 105,
       "ctr": 32,
@@ -247,7 +247,7 @@
       "cac-cdw": 655
   },{
       "fecha": "2021-07-02",
-      "inversion_rounded": 30,
+      "inversion_rounded": 300000,
       "impresiones": 20,
       "cpm": 4,
       "clics": 5000,
@@ -316,14 +316,14 @@
       "cac-rdw": 87700,
       "cac-cdw": 6550
   },{
-      "fecha": "2021-06-29",
-      "inversion_rounded": 5,
-      "impresiones": 50,
-      "cpm": 34,
+      "fecha": "2021-07-02",
+      "inversion_rounded": 5000000,
+      "impresiones": 150,
+      "cpm": 342,
       "clics": 105,
-      "ctr": 32,
+      "ctr": 312,
       "cpc": 12,
-      "views": 24,
+      "views": 224,
       "leads": 12,
       "%cr": 11,
       "cpl": 3,
