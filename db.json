@@ -124,7 +124,8 @@
       "EPApCash": 56666,
       "%FCR": 45,
       "cac-rdw": 87700,
-      "cac-cdw": 6550
+      "cac-cdw": 6550,
+      "Ingreso": 1000000
   },{
       "fecha": "2021-06-29",
       "inversion_rounded": 6000,
