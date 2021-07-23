@@ -21,6 +21,12 @@
       "nombre": "Stiven",
       "apellido": "Agudelo",
       "telefono": "3006261150"
+  },{
+      "id": 4,
+      "dia": "2021-07-23",
+      "nombre": "Breyder",
+      "apellido": "Casseres",
+      "telefono": "3137250007"
   }],
   "goals": [{
       "id": 1,
