@@ -27,6 +27,54 @@
       "nombre": "Breyder",
       "apellido": "Casseres",
       "telefono": "3137250007"
+  }{
+      "id": 5,
+      "dia": "2021-06-29",
+      "nombre": "Jhon",
+      "apellido": "Wickc",
+      "telefono": "3042757600"
+  },{
+      "id": 6,
+      "dia": "2021-06-29",
+      "nombre": "Bryan",
+      "apellido": "Foronda",
+      "telefono": "3042757600"
+  },{
+      "id": 7,
+      "dia": "2021-07-02",
+      "nombre": "Stiven",
+      "apellido": "Agudelo",
+      "telefono": "3006261150"
+  },{
+      "id": 8,
+      "dia": "2021-07-23",
+      "nombre": "Breyder",
+      "apellido": "Casseres",
+      "telefono": "3137250007"
+  }{
+      "id": 9,
+      "dia": "2021-06-29",
+      "nombre": "Jhon",
+      "apellido": "Wickc",
+      "telefono": "3042757600"
+  },{
+      "id": 10,
+      "dia": "2021-06-29",
+      "nombre": "Bryan",
+      "apellido": "Foronda",
+      "telefono": "3042757600"
+  },{
+      "id": 11,
+      "dia": "2021-07-02",
+      "nombre": "Stiven",
+      "apellido": "Agudelo",
+      "telefono": "3006261150"
+  },{
+      "id": 12,
+      "dia": "2021-07-23",
+      "nombre": "Breyder",
+      "apellido": "Casseres",
+      "telefono": "3137250007"
   }],
   "goals": [{
       "id": 1,
