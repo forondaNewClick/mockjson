@@ -81,6 +81,25 @@
       "startDate": "2021-06-29", 
       "endDate": "2021-07-02"
   }],
+  "funnels": [{
+      "id": 1,
+      "fuente": "Facebook", 
+      "ingreso": "1000000",
+      "Gastos": "2500000", 
+      "ingreso": "-1500000",
+  },{
+      "id": 2,
+      "fuente": "Youtube", 
+      "ingreso": "2000000",
+      "Gastos": "300000", 
+      "ingreso": "1700000",
+  },{
+      "id": 3,
+      "fuente": "Youtube", 
+      "ingreso": "500000",
+      "Gastos": "100000", 
+      "ingreso": "400000",
+  }],
   "google-ads": [{
       "id": 1,
       "fecha": "2021-06-29",
