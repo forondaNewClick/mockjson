@@ -1,83 +1,21 @@
 {
-  "typeform": [{
+  "funnels": [{
       "id": 1,
-      "dia": "2021-06-29",
-      "nombre": "Jhon",
-      "apellido": "Wickc",
-      "telefono": "3042757600"
+      "title": "mydomain",
+      "url": "https://www.mydomain.com/",
+      "active": true
   },{
       "id": 2,
-      "dia": "2021-06-29",
-      "nombre": "Bryan",
-      "apellido": "Foronda",
-      "telefono": "3042757600"
-  },{
-      "id": 3,
-      "dia": "2021-07-02",
-      "nombre": "Stiven",
-      "apellido": "Agudelo",
-      "telefono": "3006261150"
-  },{
-      "id": 4,
-      "dia": "2021-07-23",
-      "nombre": "Breyder",
-      "apellido": "Casseres",
-      "telefono": "3137250007"
-  },{
-      "id": 5,
-      "dia": "2021-06-29",
-      "nombre": "Jhon",
-      "apellido": "Wickc",
-      "telefono": "3042757600"
-  },{
-      "id": 6,
-      "dia": "2021-06-29",
-      "nombre": "Bryan",
-      "apellido": "Foronda",
-      "telefono": "3042757600"
-  },{
-      "id": 7,
-      "dia": "2021-07-02",
-      "nombre": "Stiven",
-      "apellido": "Agudelo",
-      "telefono": "3006261150"
-  },{
-      "id": 8,
-      "dia": "2021-07-23",
-      "nombre": "Breyder",
-      "apellido": "Casseres",
-      "telefono": "3137250007"
-  },{
-      "id": 9,
-      "dia": "2021-06-29",
-      "nombre": "Jhon",
-      "apellido": "Wickc",
-      "telefono": "3042757600"
-  },{
-      "id": 10,
-      "dia": "2021-06-29",
-      "nombre": "Bryan",
-      "apellido": "Foronda",
-      "telefono": "3042757600"
-  },{
-      "id": 11,
-      "dia": "2021-07-02",
-      "nombre": "Stiven",
-      "apellido": "Agudelo",
-      "telefono": "3006261150"
-  },{
-      "id": 12,
-      "dia": "2021-07-23",
-      "nombre": "Breyder",
-      "apellido": "Casseres",
-      "telefono": "3137250007"
+      "title": "Heroku",
+      "url": "https://www.heroku.com/",
+      "active": false
   }],
   "goals": [{
       "id": 1,
       "startDate": "2021-06-29", 
       "endDate": "2021-07-02"
   }],
-  "funnels": [{
+  "funnels2": [{
       "id": 1,
       "fuente": "Facebook", 
       "ingreso": "$1,000,000",
