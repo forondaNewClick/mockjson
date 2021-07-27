@@ -1,8 +1,4 @@
 {
-  "signIn": {
-        "name": "Jhon",
-        "lastName": "Doe"
-    },
   "typeform": [{
       "id": 1,
       "dia": "2021-06-29",
