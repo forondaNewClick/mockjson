@@ -82,19 +82,19 @@
       "fuente": "Facebook", 
       "ingreso": "$1,000,000",
       "Gastos": "$2,500,000", 
-      "rentabilidad": "$-1.500.000"
+      "rentabilidad": "-1.500.000"
   },{
       "id": 2,
       "fuente": "Youtube", 
       "ingreso": "$2,000,000",
       "Gastos": "$300,000", 
-      "rentabilidad": "$1,700,000"
+      "rentabilidad": "1,700,000"
   },{
       "id": 3,
       "fuente": "Youtube", 
       "ingreso": "$500,000",
       "Gastos": "$100,000", 
-      "rentabilidad": "$400,000"
+      "rentabilidad": "400,000"
   }],
   "google-ads": [{
       "id": 1,
