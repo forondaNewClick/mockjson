@@ -1,14 +1,14 @@
 {
   "funnels": [{
-      "id": 1,
-      "title": "mydomain",
-      "url": "https://www.mydomain.com/",
-      "active": true
+      "user_funel": 1,
+      "funnel_name": "mydomain",
+      "funnel_url": "https://www.mydomain.com/",
+      "funnel_status": true
   },{
-      "id": 2,
-      "title": "Heroku",
-      "url": "https://www.heroku.com/",
-      "active": false
+      "user_funel": 2,
+      "funnel_name": "Heroku",
+      "funnel_url": "https://www.heroku.com/",
+      "funnel_status": false
   }],
   "goals": [{
       "id": 1,
