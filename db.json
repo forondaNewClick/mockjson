@@ -3,12 +3,20 @@
       "user_funel": 1,
       "funnel_name": "mydomain",
       "funnel_url": "https://www.mydomain.com/",
-      "funnel_status": true
+      "funnel_status": true,
+      "steps":[
+        {"step_name": "Inicio", "step_url":"home"},
+        {"step_name": "Service", "step_url":"service"}
+    ]
   },{
       "user_funel": 2,
       "funnel_name": "Heroku",
       "funnel_url": "https://www.heroku.com/",
-      "funnel_status": false
+      "funnel_status": false,
+      "steps":[
+          {"step_name": "Dominio", "step_url":"lista"},
+          {"step_name": "Hero", "step_url":"servicios"}
+      ]
   }],
   "goals": [{
       "id": 1,
